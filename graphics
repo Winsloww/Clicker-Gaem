@@ -1,0 +1,4 @@
+var button = new Rectangle(200, 100);
+button.setposition(getWidth() / 2, getHeight() / 2);
+button.setcolor(Color.green);
+add(button);
